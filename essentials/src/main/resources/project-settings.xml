@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+  <projectNamespace>kaleidocms</projectNamespace>
+  <confirmParams>false</confirmParams>
+  <selectedBeansPackage>io.kaleido.cms.beans</selectedBeansPackage>
+  <selectedComponentsPackage>io.kaleido.cms.components</selectedComponentsPackage>
+  <selectedRestPackage>io.kaleido.cms.rest</selectedRestPackage>
+  <setupDone>false</setupDone>
+  <templateLanguage>freemarker</templateLanguage>
+  <useSamples>true</useSamples>
+</project>
